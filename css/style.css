@@ -1,0 +1,55 @@
+@charset "UTF-8";
+.CodeMirror {border-top: 1px solid #eee; border-bottom: 1px solid #eee; line-height: 1.3; height: 400px}
+.CodeMirror-linenumbers { padding: 0 8px; color: black}
+.CodeMirror-linenumber,.CodeMirror-gutter-elt{color: black;}
+.modal-lg{
+    width: 90%;
+}
+.tooltip-glyphicon{
+    font-size: 18px;
+    cursor: pointer;
+}
+.menuSelector{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 99999;
+    display: none;
+}
+.opcoes-icones *{
+  cursor: pointer;
+}
+.editar-icone{
+    color: #00af07;
+}
+.remover-icone{
+    color: #d00400;
+}
+.propriedades-icone{
+    color: #1c1caa;
+}
+.arquivo-edit-area{
+    resize: vertical;
+}
+.permissao-label,.permissaoAll-label{
+    font-size: 20px;
+}
+.alert-primary{
+    color: white;
+    background-color: #128beb;
+}
+.overlay {
+    background-color: transparent;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 999999999999;
+}
+.CodeMirror-hints{
+    z-index: 9999999;
+}
+.diretorio{
+  cursor: pointer;
+}
