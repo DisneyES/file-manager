@@ -8,3 +8,6 @@ File manager using FTP
 - Fontawesome
 - Codemirror
 - Datatables
+
+### Made by Jorge Junior
+jorge.junior@hostnet.com.br
