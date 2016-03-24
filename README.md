@@ -10,4 +10,4 @@ File manager using FTP
 - Datatables
 
 ### Made by Jorge Junior
-jorge.junior@hostnet.com.br
+jorge.junior.568@live.com
